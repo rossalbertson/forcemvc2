@@ -1,6 +1,6 @@
 library example;
 
-import "package:forcemvc2/forcemvc2.dart";
+import "package:forcemvc3/forcemvc2.dart";
 import 'package:example/controllers.dart';
 
 main() {

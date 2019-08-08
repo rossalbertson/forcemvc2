@@ -3,7 +3,7 @@ environment:
   sdk: '>=2.0.0 <3.0.0'
 dependencies:
 #  path: any
-  forcemvc2: 
+  forcemvc3: 
     path: '../'
 test_dependencies:
   test: any

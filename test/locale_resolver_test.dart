@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:forcemvc2/force_mvc2.dart';
+import 'package:forcemvc2/forcemvc2.dart';
 
 main() {
   // First tests!  
