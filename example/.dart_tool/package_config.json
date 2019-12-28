@@ -1,0 +1,170 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/async-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/boolean_selector-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/charcode-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "1.0"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "forcemvc2",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "http_server",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/http_server-0.9.8+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/intl-0.16.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "locales",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/locales-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/logging-0.11.3+2",
+      "packageUri": "lib/",
+      "languageVersion": "1.5"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/matcher-0.12.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "1.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/mime-0.9.6+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mirrorme2",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/mirrorme2-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mockito",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/mockito-4.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mustache4dart2",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/mustache4dart2-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/path-1.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/pedantic-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "route2",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/route2-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/source_span-1.5.5",
+      "packageUri": "lib/",
+      "languageVersion": "1.8"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stack_trace-1.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "1.23"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/stream_channel-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/string_scanner-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/term_glyph-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "1.8"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/test_api-0.2.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "wired2",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/wired2-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "yaml",
+      "rootUri": "file:///C:/Users/ozone/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/yaml-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    }
+  ],
+  "generated": "2019-12-28T14:40:32.538954Z",
+  "generator": "pub",
+  "generatorVersion": "2.7.0"
+}

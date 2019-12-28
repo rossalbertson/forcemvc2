@@ -1,5 +1,5 @@
-name: forcemvc3
-version: 0.1.0
+name: forcemvc2
+version: 0.4.0
 author: Joris Hermans <hermansj@gmail.com>
 description: A serverside web mvc framework with templates (ported to Dart 2 by Ross Albertson)
 homepage: https://github.com/rossalbertson/forcemvc2
@@ -18,7 +18,8 @@ dependencies:
   wired2: ^0.1.0
 #   path: '../wired2'
 #  locale: '>=0.1.1+2 <0.1.2'
-  intl: ^0.15.8
+#  intl: ^0.15.8
+  intl: ^0.16.0
   locales: ^0.1.0
 #  jsonify: '>=0.0.1 <0.0.2'
   mockito: ^4.0.0
