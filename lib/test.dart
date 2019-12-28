@@ -1,10 +1,14 @@
 library dart_force_mvc_unittest_lib;
 
 import 'package:mockito/mockito.dart';
-import 'package:forcemvc2/force_mvc2.dart';
-import 'dart:io';
+import 'package:forcemvc2/forcemvc2.dart';
 import 'dart:async';
+import 'dart:mirrors';
 import 'dart:convert';
+import 'dart:io';
+import 'dart:math';
+import 'dart:collection';
+import 'dart:typed_data';
 
 class MockHttpRequest extends Mock implements HttpRequest {}
 
@@ -39,7 +43,11 @@ class MockForceRequest implements ForceRequest {
 
    // HTTPInputMessage
    Stream getBody() {
-     return this.request.transform(const AsciiDecoder());
+     return this.request.transform(StreamTransformer<Uint8List,String>.fromHandlers(
+         handleData: (str, sink) {
+           sink.add(ascii.decode(str));
+         }
+     ));
    }
 
    IOSink getOutputBody() {
